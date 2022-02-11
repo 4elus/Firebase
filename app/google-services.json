@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1058566290495",
+    "project_id": "geekbrainstutorial",
+    "storage_bucket": "geekbrainstutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058566290495:android:2c0d0538dfee4bc0b54c8a",
+        "android_client_info": {
+          "package_name": "com.example.roomapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058566290495-dgv4ghmpr3lnoa65fleiak1ojv4a3g8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeOeg8Bg3qmEMkpvStg__gLR_o7CNiNbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058566290495-dgv4ghmpr3lnoa65fleiak1ojv4a3g8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
